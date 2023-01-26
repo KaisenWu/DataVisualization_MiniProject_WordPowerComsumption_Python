@@ -1,0 +1,1 @@
+# DataVisualization_MiniProject_WordPowerComsumption_Python
